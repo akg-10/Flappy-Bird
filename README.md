@@ -1,18 +1,17 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple Flappy Bird using Java
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `bin`: the folder with output class files
+- `src/assets`: the folder to maintain assets like background image,bird image,etc
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## How to Run
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- You would need `OpenJDK` to run the java class file
+- Convert `.java` files to `.class` files using `javac` command
+- Then run the .class file using `java` command
