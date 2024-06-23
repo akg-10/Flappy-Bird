@@ -18,5 +18,9 @@ The workspace contains two folders by default, where:
 
   or
 
-- You can run the `StartFlappy.py` in the directory
+- You can run the program using `python StartFlappy.py` or `python3 StartFlappy.py` commands using commandline in the directory 
 >It automatically executes commands to run the JAR file
+
+  or
+
+- If you are on Windows, you can simply run the game by opening `Flappy_Bird.bat`
