@@ -18,5 +18,5 @@ The workspace contains two folders by default, where:
 
   or
 
--You can run the `StartFlappy.py` in the directory
+- You can run the `StartFlappy.py` in the directory
 >It automatically executes commands to run the JAR file
