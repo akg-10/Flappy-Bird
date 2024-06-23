@@ -15,3 +15,8 @@ The workspace contains two folders by default, where:
 - You would need `OpenJDK` to run the java class file
 - Convert `.java` files to `.class` files using `javac` command
 - Then run the .class file using `java` command
+
+  or
+
+- You can run the `StartFlappy.py` in the directory
+>It automatically executes commands to run the JAR file
