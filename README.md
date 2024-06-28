@@ -24,3 +24,7 @@ The workspace contains two folders by default, where:
   or
 
 - If you are on Windows, you can simply run the game by opening `Flappy_Bird.bat`
+
+  or
+
+- Just open the `.jar` file if you have Java JDK installed 
